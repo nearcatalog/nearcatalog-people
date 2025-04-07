@@ -1,0 +1,189 @@
+[
+    {
+        "name": "Konrad Merino",
+        "preferredContact": "Telegram",
+        "organization": "NEAR Foundation",
+        "team": "Blockchain Success",
+        "jobTitle": "Head of Infra Success"
+    },
+    {
+        "name": "Artem Petrikeev",
+        "email": "artem.petrikeev@near.foundation",
+        "preferredContact": "Telegram",
+        "telegram": "https://t.me/apetrikeev",
+        "organization": "NEAR Foundation",
+        "team": "VC & Institutional",
+        "jobTitle": "Investor Relations"
+    },
+    {
+        "name": "Jarrod Barnes",
+        "email": "jarrod.barnes@near.foundation",
+        "preferredContact": "Telegram",
+        "telegram": "https://t.me/jarrodbarnes",
+        "organization": "NEAR Foundation",
+        "team": "Founder Success",
+        "jobTitle": "Head of Ecosystem Acceleration"
+    },
+    {
+        "name": "Michael Broderick",
+        "email": "michael.broderick@near.foundation",
+        "preferredContact": "Telegram",
+        "telegram": "https://t.me/mbroderick",
+        "organization": "NEAR Foundation",
+        "team": "Founder Success",
+        "jobTitle": "Ecosystem Growth Lead"
+    },
+    {
+        "name": "Bianca",
+        "email": "bianca.momand@near.foundation",
+        "preferredContact": "Telegram",
+        "telegram": "https://t.me/mrsmomand",
+        "organization": "NEAR Foundation",
+        "team": "Founder Success",
+        "jobTitle": "Program Success Director"
+    },
+    {
+        "name": "Abhishek Vaidyanathan",
+        "email": "abhishek.vaidyanathan@near.foundation",
+        "preferredContact": "Telegram",
+        "telegram": "https://t.me/abhishekvaidy",
+        "organization": "NEAR Foundation",
+        "team": "Legal",
+        "jobTitle": "Acting General Counsel"
+    },
+    {
+        "name": "Davin",
+        "email": "davin.basi@near.foundation",
+        "preferredContact": "Email",
+        "organization": "NEAR Foundation",
+        "team": "Legal",
+        "jobTitle": "Legal Counsel"
+    },
+    {
+        "name": "Carla",
+        "email": "carla.bertoncelli@near.foundation",
+        "preferredContact": "Email",
+        "organization": "NEAR Foundation",
+        "team": "Legal",
+        "jobTitle": "Paralegal"
+    },
+    {
+        "name": "David",
+        "email": "david.mirzadeh@near.foundation",
+        "preferredContact": "Telegram",
+        "telegram": "https://t.me/mirzdame",
+        "organization": "NEAR Foundation",
+        "team": "Office of the CEO",
+        "jobTitle": "Chief of Staff"
+    },
+    {
+        "name": "Dan Horne",
+        "email": "daniel.horne@near.foundation",
+        "preferredContact": "Email, Telegram",
+        "telegram": "https://t.me/dan_web3",
+        "organization": "NEAR Foundation",
+        "team": "Foundation Intelligence",
+        "jobTitle": "Head of Strategic Operations"
+    },
+    {
+        "name": "Jared Thompson",
+        "email": "jared.thompson@near.foundation",
+        "preferredContact": "Email, Telegram",
+        "telegram": "https://t.me/jarednotjerry",
+        "organization": "NEAR Foundation",
+        "team": "Marketing",
+        "jobTitle": "Head of Content"
+    },
+    {
+        "name": "Rob Woodbury",
+        "email": "rob.woodbury@near.foundation",
+        "preferredContact": "Email",
+        "organization": "NEAR Foundation",
+        "team": "Marketing",
+        "jobTitle": "Head of Partnership Marketing"
+    },
+    {
+        "name": "Kiana Vidal",
+        "email": "kiana.vidal@near.foundation",
+        "preferredContact": "Email, Telegram",
+        "telegram": "https://t.me/Kiana_0226",
+        "organization": "NEAR Foundation",
+        "team": "Marketing",
+        "jobTitle": "Event Production Manager"
+    },
+    {
+        "name": "David Morrison",
+        "email": "david.morrison@near.foundation",
+        "preferredContact": "Email, Telegram",
+        "telegram": "https://t.me/DAOvid_Mo",
+        "organization": "NEAR Foundation",
+        "team": "Marketing",
+        "jobTitle": "Head of Creative Campaigns & Social Media"
+    },
+    {
+        "name": "Stephanie Izquieta",
+        "email": "stephanie.izquieta@near.foundation",
+        "preferredContact": "Email, Telegram",
+        "telegram": "https://t.me/locazor",
+        "organization": "NEAR Foundation",
+        "team": "Marketing",
+        "jobTitle": "Events Lead"
+    },
+    {
+        "name": "Olga Plokhuta",
+        "email": "olga.plokhuta@near.foundation",
+        "preferredContact": "Email",
+        "organization": "NEAR Foundation",
+        "team": "Marketing",
+        "jobTitle": "Marketing Program Director"
+    },
+    {
+        "name": "Megan Gill",
+        "email": "megan.gill@near.foundation",
+        "preferredContact": "Email",
+        "organization": "NEAR Foundation",
+        "team": "People",
+        "jobTitle": "HR Generalist"
+    },
+    {
+        "name": "green slime",
+        "preferredContact": "Telegram",
+        "organization": "Slime",
+        "telegram": "https://t.me/slime",
+        "twitter": "https://x.com/slimedrgn/",
+        "avatar": "https://pbs.twimg.com/profile_images/1906825141398413312/g1kdTg8y_400x400.jpg",
+        "description": "Filling the NEAR blockspace with slimy stuff I build"
+    },
+    {
+        "name": "Illia Polosukhin",
+        "preferredContact": "X",
+        "organization": "NEAR Foundation",
+        "twitter": "https://x.com/ilblackdragon",
+        "avatar": "https://pbs.twimg.com/profile_images/1850199749342978048/8OtPYhqP_400x400.jpg",
+        "description": "Co-founder of NEAR Protocol, NEAR Foundation and NEAR Inc. Building the future of the open web."
+    },
+    {
+        "name": "Cameron Dennis",
+        "preferredContact": "X",
+        "twitter": "https://x.com/Cameron_Dennis_",
+        "organization": "NEAR AI",
+        "avatar": "https://pbs.twimg.com/profile_images/1867013405795815425/tg5f3VpE_400x400.jpg",
+        "description": "Building the future of AI on NEAR. Contact me for partnerships, collaborations, and more on NEAR AI"
+    },
+    {
+        "name": "chronear",
+        "twitter": "https://x.com/chronear",
+        "avatar": "https://pbs.twimg.com/profile_images/1907926684210241536/uN7yC-re_400x400.jpg",
+        "preferredContact": "X",
+        "description": "DeFi@NEAR",
+        "organization": "NEAR Foundation"
+    },
+    {
+        "name" : "AVB",
+        "preferredContact": "X",
+        "avatar" : "https://pbs.twimg.com/profile_images/1777627711948918784/1vhGPCpV_400x400.jpg",
+        "description": "web3 Product, Growth & Strategy",
+        "organization": "WUIPod",
+        "twitter": "https://x.com/AvbNear/"
+    }
+]

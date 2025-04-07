@@ -1,9 +1,18 @@
 [
     {
+    "name": "NEAR Dev Hub",
+    "organization":"Dev Hub",
+    "description":"The decentralized home base for NEAR builders",
+    "preferredContact": "Telegram",
+    "telegram":"https://t.me/neardev",
+    "website":"http://neardevhub.org"
+    },
+    {
         "name": "Konrad Merino",
         "preferredContact": "Telegram",
         "organization": "NEAR Foundation",
         "team": "Blockchain Success",
+        "telegram":"https://t.me/KonradMerino",
         "jobTitle": "Head of Infra Success"
     },
     {

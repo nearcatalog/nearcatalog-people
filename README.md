@@ -6,7 +6,7 @@ A community-maintained directory of individuals and teams building on the NEAR e
 
 This repository contains a curated list of people actively involved in the NEAR ecosystem, including foundation members, developers, community leaders, and contributors. The data is stored in a single JSON file (`people-on-near.json`) that can be easily updated through GitHub's collaborative workflow.
 
-This is dev-oriented repo, for normal users, you can submit your request here instead:  
+This is a dev-oriented repo, for regular users, you can submit your request here instead:  https://submit.nearcatalog.xyz/people-on-near/
 
 ## View the Directory
 
@@ -27,7 +27,7 @@ Each person in the directory is represented by a JSON object with the following 
   "email": "email@example.com",                 // Optional
   "telegram": "https://t.me/username",          // Optional
   "twitter": "https://x.com/username",          // Optional
-  "website" : "https://example.com", 			// Optional
+  "website" : "https://example.com",         // Optional
   "avatar": "https://example.com/avatar.jpg"   // Optional: URL to profile image
 }
 ```
@@ -47,9 +47,6 @@ Each person in the directory is represented by a JSON object with the following 
 4. **Commit your changes**:
 
 5. **Push to your fork**:
-   ```bash
-   git push
-   ```
 
 6. **Create a pull request** by navigating to your fork on GitHub and clicking "Contribute" > "Open pull request".
 

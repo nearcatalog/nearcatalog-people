@@ -1,5 +1,12 @@
 [
     {
+    "name": "NEAR Validators",
+    "organization":"Dev Hub",
+    "description":"Everything about NEAR Validators",
+    "preferredContact": "Telegram",
+    "telegram":"https://t.me/near_validators"
+    },
+    {
     "name": "NEAR Dev Hub",
     "organization":"Dev Hub",
     "description":"The decentralized home base for NEAR builders",

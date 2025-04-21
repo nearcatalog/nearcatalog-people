@@ -1,5 +1,13 @@
 [
     {
+        "name": "V ⋈",
+        "preferredContact": "Twitter",
+        "organization": "Proximity Labs",
+        "twitter": "https://x.com/vxyz_near",
+        "avatar": "https://pbs.twimg.com/profile_images/1894769155150127104/E7C4o-pF_400x400.jpg",
+        "description": "If you ever need input on GTM, marketing strategy, or just a fresh set of eyes to go over your current strategies; my DMs are always open. Every project deserves visibility and support. Let’s grow the ecosystem and build the future together!"
+    },
+    {
     "name": "NEAR Validators",
     "organization":"Dev Hub",
     "description":"Everything about NEAR Validators",

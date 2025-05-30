@@ -1,9 +1,135 @@
 [
     {
+        "name": "Michael Aescobar",
+        "email": "aescobar.co@gmail.com",
+        "preferredContact": "Telegram",
+        "organization": "Rhea Finance",
+        "team": "Operation",
+        "jobTitle": "Operation Lead",
+        "description": "Operation Lead of Rhea Finance",
+        "avatar": "",
+        "telegram": "https://t.me/Aescobar0G",
+        "twitter": "https://x.com/aescobarindo",
+        "discord": "",
+        "website": ""
+    },
+    {
+        "name": "Volodymyr Bilyk",
+        "email": "volodymyr@lantstool.dev",
+        "preferredContact": "Telegram",
+        "organization": "Lantstool",
+        "team": "",
+        "jobTitle": "CTO",
+        "description": "Founder of Lantstool. Building the best tools for NEAR builders. Got a project idea? Drop a message and let’s build something awesome together!",
+        "avatar": "https://pbs.twimg.com/profile_images/1909954435813355520/w3g-zeO5_400x400.jpg",
+        "telegram": "https://t.me/eclipseeer",
+        "twitter": "https://x.com/eclipseeer",
+        "discord": "",
+        "website": "https://lantstool.dev"
+    },
+    {
+        "name": "Vlad Frolov",
+        "email": "frol@near.dev",
+        "preferredContact": "Telegram",
+        "organization": "NEAR Dev",
+        "team": "",
+        "jobTitle": "Co-founder",
+        "description": "Leading NEAR Dev with a goal of delivering the best developer experience for NEAR through intuitive and easy to use DevTools in Rust, JS, and Python.Reach out to me if you want to develop DevTools (CLIs, SDKs for on-chain and off-chain development) or popularize those (videos, articles, etc).",
+        "avatar": "https://gravatar.com/avatar/f8f0734a3d7563e5504433dbef483472?size=256",
+        "telegram": "https://t.me/frolvlad",
+        "twitter": "https://x.com/Freol",
+        "discord": "",
+        "website": "https://dev.near.org"
+    },
+    {
+        "name": "Claudio Cossio",
+        "email": "claudio@metapool.app",
+        "preferredContact": "Email",
+        "organization": "Meta Pool",
+        "team": "",
+        "jobTitle": "Co Founder",
+        "description": "Co-founder of Meta Pool, a multi-chain liquid staking solution for NEAR, Aurora, Ethereum, ICP, Q, Solana &amp; Story. Founding member of Nativo Crypto and Co-chair of Crypto Valley Association - LATAM. Loves to work on scaling products and building user communities.",
+        "avatar": "https://indexer.nearcatalog.xyz/wp-content/uploads/2025/05/Headshot-Claudio-Meta-Pool.jpg",
+        "telegram": "",
+        "twitter": "https://x.com/ccossio",
+        "discord": "https://discord.com/invite/GmabgWjJCK",
+        "website": ""
+    },
+    {
+        "name": "Guille",
+        "email": "guillermo@near.dev",
+        "preferredContact": "Telegram",
+        "organization": "NEAR Dev",
+        "team": "Developer Relations",
+        "jobTitle": "DevRel Lead",
+        "description": "I lead the Developer Relations team at NEAR Dev, where we oversee all documentation, examples and technical support for main ecosystem partners",
+        "avatar": "https://pbs.twimg.com/profile_images/1573319312890384384/jUA2BAQQ_400x400.jpg",
+        "telegram": "https://t.me/guilledevrel",
+        "twitter": "https://x.com/guillewrotethis",
+        "discord": "",
+        "website": ""
+    },
+    {
+        "name": "Erica Kang",
+        "email": "",
+        "preferredContact": "Telegram",
+        "organization": "KryptoPlanet, Blackdragon Capital",
+        "team": "",
+        "jobTitle": "Founder",
+        "description": "Mother of dragons.🐉 I cohost Open Source AI Summit with NEAR. Also I am preparing a coworking space in Lisbon, Portugal with NEAR. Also minted Asian Girl Boss memecoin on NEAR.",
+        "avatar": "https://indexer.nearcatalog.xyz/wp-content/uploads/2025/05/erika.jpg",
+        "telegram": "",
+        "twitter": "https://x.com/ekang426",
+        "discord": "",
+        "website": "https://www.buidl.asia/"
+    },
+    {
+        "name": "Evgeny Haenko",
+        "email": "haenko.slavax5@gmail.com",
+        "preferredContact": "Telegram",
+        "organization": "House of Stake",
+        "team": "",
+        "jobTitle": "",
+        "description": "Since 2021, I’ve been actively involved in the development of the NEAR ecosystem. I worked with Human Guild, where I handled communication with projects, supported teams, and coordinated activities across the ecosystem. Today, I’m an active contributor to House of Stake and always happy to support any project in the NEAR ecosystem. I continue contributing as a volunteer and am open to helping with communications, community building, and general coordination wherever needed.",
+        "avatar": "",
+        "telegram": "https://t.me/evg3nykh",
+        "twitter": "https://x.com/haenko21",
+        "discord": "",
+        "website": ""
+    },
+    {
+        "name": "Anton Lomonos",
+        "email": "anton.lomonos@near.ai",
+        "preferredContact": "Telegram",
+        "organization": "NEAR AI",
+        "team": "",
+        "jobTitle": "",
+        "description": "DevX Lead on NEAR AI Hub and Lead on NEAR AI Analytics.",
+        "avatar": "https://github.com/arktoswb.png",
+        "telegram": "https:://t.me/Alomonos",
+        "twitter": "",
+        "discord": "",
+        "website": "https://www.linkedin.com/in/arktoswb/"
+    },
+    {
+        "name": "Paul Kuveke",
+        "email": "paul@bitte.ai",
+        "preferredContact": "X",
+        "organization": "Bitte.ai",
+        "team": "Operations",
+        "jobTitle": "COO",
+        "description": "I'm the COO at Bitte.AI, a platform for deploying highly performant on-chain agents. Built on NEAR, Bitte.AI lets developers create agents that users can access through embedded chat interfaces. If you're building on-chain services, exploring agentic infrastructure, or rethinking how users interact with blockchains, let’s connect. Always happy to collaborate with people pushing the space forward.",
+        "avatar": "",
+        "telegram": "",
+        "twitter": "https://x.com/PKuveke",
+        "discord": "",
+        "website": ""
+    },
+    {
         "name": "Yadira",
         "preferredContact": "Twitter",
         "organization": "NEAR Foundation",
-        "website":"https://near-foundation.notion.site/1d0da22d7b6480e6a423cd2681fd8a00",
+        "website": "https://near-foundation.notion.site/1d0da22d7b6480e6a423cd2681fd8a00",
         "twitter": "https://x.com/YadiraBlocker",
         "avatar": "https://pbs.twimg.com/profile_images/1893388117446463488/qkdVGYG6_400x400.jpg",
         "description": "Web3 Marketing @ NEAR, Bridging culture, crypto, & design. Social amplification requests from NEAR Foundation social accounts can be submitted via our form! "
@@ -25,26 +151,26 @@
         "description": "If you ever need input on GTM, marketing strategy, or just a fresh set of eyes to go over your current strategies, my DMs are always open. Every project deserves visibility and support. Let’s grow the ecosystem and build the future together!"
     },
     {
-    "name": "NEAR Validators",
-    "organization":"Dev Hub",
-    "description":"Everything about NEAR Validators",
-    "preferredContact": "Telegram",
-    "telegram":"https://t.me/near_validators"
+        "name": "NEAR Validators",
+        "organization": "Dev Hub",
+        "description": "Everything about NEAR Validators",
+        "preferredContact": "Telegram",
+        "telegram": "https://t.me/near_validators"
     },
     {
-    "name": "NEAR Dev Hub",
-    "organization":"Dev Hub",
-    "description":"The decentralized home base for NEAR builders",
-    "preferredContact": "Telegram",
-    "telegram":"https://t.me/neardev",
-    "website":"http://neardevhub.org"
+        "name": "NEAR Dev Hub",
+        "organization": "NEAR Dev",
+        "description": "The decentralized home base for NEAR builders",
+        "preferredContact": "Telegram",
+        "telegram": "https://t.me/neardev",
+        "website": "http://neardevhub.org"
     },
     {
         "name": "Konrad Merino",
         "preferredContact": "Telegram",
         "organization": "NEAR Foundation",
         "team": "Blockchain Success",
-        "telegram":"https://t.me/KonradMerino",
+        "telegram": "https://t.me/KonradMerino",
         "jobTitle": "Head of Infra Success"
     },
     {
@@ -55,15 +181,6 @@
         "organization": "NEAR Foundation",
         "team": "VC & Institutional",
         "jobTitle": "Investor Relations"
-    },
-    {
-        "name": "Jarrod Barnes",
-        "email": "jarrod.barnes@near.foundation",
-        "preferredContact": "Telegram",
-        "telegram": "https://t.me/jarrodbarnes",
-        "organization": "NEAR Foundation",
-        "team": "Founder Success",
-        "jobTitle": "Head of Ecosystem Acceleration"
     },
     {
         "name": "Michael Broderick",
@@ -211,9 +328,9 @@
         "organization": "NEAR Foundation"
     },
     {
-        "name" : "AVB",
+        "name": "AVB",
         "preferredContact": "X",
-        "avatar" : "https://pbs.twimg.com/profile_images/1777627711948918784/1vhGPCpV_400x400.jpg",
+        "avatar": "https://pbs.twimg.com/profile_images/1777627711948918784/1vhGPCpV_400x400.jpg",
         "description": "web3 Product, Growth & Strategy, NEAR AI",
         "organization": "NEAR AI",
         "twitter": "https://x.com/AvbNear/"

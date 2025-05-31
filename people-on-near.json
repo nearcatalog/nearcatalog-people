@@ -1,5 +1,33 @@
 [
     {
+        "name": "Sasha",
+        "email": "sasha@learnnear.club",
+        "preferredContact": "Email",
+        "organization": "Learn NEAR Club",
+        "team": "",
+        "jobTitle": "",
+        "description": "It is about Learning, Digital, and Decentralization. Creator of (L)Earn🕺.",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/05/sasha.jpg",
+        "telegram": "",
+        "twitter": "",
+        "discord": "",
+        "website": "https://learnnear.club/"
+    },
+    {
+        "name": "Mario Reder",
+        "email": "",
+        "preferredContact": "Telegram",
+        "organization": "Shitzu",
+        "team": "",
+        "jobTitle": "",
+        "description": "Contributor and builder",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/05/marior.jpg",
+        "telegram": "https://t.me/marior_dev",
+        "twitter": "https://x.com/marior_dev",
+        "discord": "",
+        "website": ""
+    },
+    {
         "name": "Rahul Kumar Goel",
         "email": "",
         "preferredContact": "Telegram",

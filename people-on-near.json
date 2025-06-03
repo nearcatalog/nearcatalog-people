@@ -1,5 +1,47 @@
 [
     {
+        "name": "Lane Rettig",
+        "email": "",
+        "preferredContact": "X",
+        "organization": "NEAR Foundation",
+        "team": "House of Stake",
+        "jobTitle": "Head of Research",
+        "description": "Lane is Head of Reaearch at NEAR Foundation and leads the Foundation’s efforts to set up the House of Stake governance initiative.",
+        "avatar": "https://euc.li/lanechain.eth",
+        "telegram": "https://t.me/lockehart",
+        "twitter": "https://x.com/lrettig",
+        "discord": "",
+        "website": "https://rettig.substack.com"
+    },
+    {
+        "name": "Shai Perednik",
+        "email": "shai.perednik@near.foundation",
+        "preferredContact": "Email",
+        "organization": "Near Foundation",
+        "team": "Founders Success",
+        "jobTitle": "Principal Ecosystem Solutions Architect",
+        "description": "I'm Shai from the Near Founder Success team, serving as Principal Ecosystem Architect. With 30 years of experience in tech, from distributed systems in the Navy to leading blockchain initiatives at AWS.  I specialize in empowering Web3 and AI builders through strategic partnerships, technical frameworks, and go-to-market strategies. Reach out to me if you're looking for guidance on ecosystem building, technical enablement, or scaling your Web3 and AI solutions effectively on NEAR.",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Stephanie-Izquieta-1.jpg",
+        "telegram": "https://t.me/sh_ai_0x",
+        "twitter": "https://x.com/shaiss",
+        "discord": "",
+        "website": "https://shai-portfolio.lovable.app/"
+    },
+    {
+        "name": "Ester Silva",
+        "email": "ester.silva@near.foundation",
+        "preferredContact": "Email",
+        "organization": "Near Foundation",
+        "team": "Founder Success",
+        "jobTitle": "",
+        "description": "Ecosystem Growth ★ Founder Success ★ Protocol Rewards",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Ξster.jpg",
+        "telegram": "",
+        "twitter": "https://x.com/SterFonseca",
+        "discord": "",
+        "website": ""
+    },
+    {
         "name": "Sasha",
         "email": "sasha@learnnear.club",
         "preferredContact": "Email",
@@ -49,7 +91,7 @@
         "team": "Operation",
         "jobTitle": "Operation Lead",
         "description": "Operation Lead of Rhea Finance",
-        "avatar": "",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Michael-Aescobar.jpg",
         "telegram": "https://t.me/Aescobar0G",
         "twitter": "https://x.com/aescobarindo",
         "discord": "",
@@ -161,7 +203,7 @@
         "team": "Operations",
         "jobTitle": "COO",
         "description": "I'm the COO at Bitte.AI, a platform for deploying highly performant on-chain agents. Built on NEAR, Bitte.AI lets developers create agents that users can access through embedded chat interfaces. If you're building on-chain services, exploring agentic infrastructure, or rethinking how users interact with blockchains, let’s connect. Always happy to collaborate with people pushing the space forward.",
-        "avatar": "",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Paul-Kuveke.jpg",
         "telegram": "",
         "twitter": "https://x.com/PKuveke",
         "discord": "",
@@ -189,7 +231,7 @@
         "preferredContact": "Twitter",
         "organization": "Proximity Labs",
         "twitter": "https://x.com/vxyz_near",
-        "avatar": "https://pbs.twimg.com/profile_images/1894769155150127104/E7C4o-pF_400x400.jpg",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/V.jpg",
         "description": "If you ever need input on GTM, marketing strategy, or just a fresh set of eyes to go over your current strategies, my DMs are always open. Every project deserves visibility and support. Let’s grow the ecosystem and build the future together!"
     },
     {
@@ -197,6 +239,7 @@
         "organization": "Dev Hub",
         "description": "Everything about NEAR Validators",
         "preferredContact": "Telegram",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/NEAR-Validators.jpg",
         "telegram": "https://t.me/near_validators"
     },
     {
@@ -212,6 +255,7 @@
         "preferredContact": "Telegram",
         "organization": "NEAR Foundation",
         "team": "Blockchain Success",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Konrad-Merino.jpg",
         "telegram": "https://t.me/KonradMerino",
         "jobTitle": "Head of Infra Success"
     },
@@ -239,6 +283,7 @@
         "preferredContact": "Telegram",
         "telegram": "https://t.me/mrsmomand",
         "organization": "NEAR Foundation",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Bianca-Momand.jpg",
         "team": "Founder Success",
         "jobTitle": "Program Success Director"
     },
@@ -282,6 +327,7 @@
         "preferredContact": "Email, Telegram",
         "telegram": "https://t.me/dan_web3",
         "organization": "NEAR Foundation",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Dan-Horne.jpg",
         "team": "Foundation Intelligence",
         "jobTitle": "Head of Strategic Operations"
     },
@@ -289,6 +335,7 @@
         "name": "Jared Thompson",
         "email": "jared.thompson@near.foundation",
         "preferredContact": "Email, Telegram",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Jared-Thompson.jpg",
         "telegram": "https://t.me/jarednotjerry",
         "organization": "NEAR Foundation",
         "team": "Marketing",
@@ -318,6 +365,7 @@
         "telegram": "https://t.me/locazor",
         "organization": "NEAR Foundation",
         "team": "Marketing",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Stephanie-Izquieta.jpg",
         "jobTitle": "Events Lead"
     },
     {
@@ -326,7 +374,8 @@
         "preferredContact": "Email",
         "organization": "NEAR Foundation",
         "team": "Marketing",
-        "jobTitle": "Marketing Program Director"
+        "jobTitle": "Marketing Program Director",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Olga-Plokhuta.jpg"
     },
     {
         "name": "Megan Gill",

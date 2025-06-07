@@ -1,5 +1,33 @@
 [
     {
+        "name": "Josh Ford",
+        "email": "",
+        "preferredContact": "Telegram",
+        "organization": "NEAR Dev",
+        "team": "",
+        "jobTitle": "Developer Relations Engineer",
+        "description": "Developer Relations Engineer and Human Archival Node for the NEAR Ecosystem. 🦾",
+        "avatar": "https://avatars.githubusercontent.com/u/58483342?v=4",
+        "telegram": "http://tg.me/thisisjoshford",
+        "twitter": "",
+        "discord": "",
+        "website": ""
+    },
+    {
+        "name": "Alex Comerford",
+        "email": "",
+        "preferredContact": "Email",
+        "organization": "NEAR AI",
+        "team": "",
+        "jobTitle": "",
+        "description": "Member of NEAR AI working on NEAR-MCP and Agent Cloud",
+        "avatar": "",
+        "telegram": "https://t.me/cmrfrd",
+        "twitter": "https://x.com/thecmrfrd",
+        "discord": "",
+        "website": "http://taoa.io"
+    },
+    {
         "name": "Lucio Tato",
         "email": "lucio@metapool.app",
         "preferredContact": "Email",

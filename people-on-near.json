@@ -14,20 +14,6 @@
         "website": ""
     },
     {
-        "name": "Alex Comerford",
-        "email": "",
-        "preferredContact": "Email",
-        "organization": "NEAR AI",
-        "team": "",
-        "jobTitle": "",
-        "description": "Member of NEAR AI working on NEAR-MCP and Agent Cloud",
-        "avatar": "",
-        "telegram": "https://t.me/cmrfrd",
-        "twitter": "https://x.com/thecmrfrd",
-        "discord": "",
-        "website": "http://taoa.io"
-    },
-    {
         "name": "Lucio Tato",
         "email": "lucio@metapool.app",
         "preferredContact": "Email",
@@ -462,15 +448,6 @@
         "jobTitle": "Head of Partnership Marketing"
     },
     {
-        "name": "Kiana Vidal",
-        "email": "kiana.vidal@near.foundation",
-        "preferredContact": "Email, Telegram",
-        "telegram": "https://t.me/Kiana_0226",
-        "organization": "NEAR Foundation",
-        "team": "Marketing",
-        "jobTitle": "Event Production Manager"
-    },
-    {
         "name": "Stephanie Izquieta",
         "email": "stephanie.izquieta@near.foundation",
         "preferredContact": "Email, Telegram",
@@ -488,14 +465,6 @@
         "team": "Marketing",
         "jobTitle": "Marketing Program Director",
         "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Olga-Plokhuta.jpg"
-    },
-    {
-        "name": "Megan Gill",
-        "email": "megan.gill@near.foundation",
-        "preferredContact": "Email",
-        "organization": "NEAR Foundation",
-        "team": "People",
-        "jobTitle": "HR Generalist"
     },
     {
         "name": "Slime",

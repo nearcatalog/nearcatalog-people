@@ -1,5 +1,19 @@
 [
     {
+      "name": "Kuro Denjiro",
+      "email": "kurodenjiro1@gmail.com",
+      "preferredContact": "X",
+      "organization": "Community",
+      "team": "",
+      "jobTitle": "Founder",
+      "description": "I'm a developer and builder at the intersection of Web3 and AI, with a passion for creating autonomous agents, decentralized applications, and on-chain intelligence. My work spans AI-driven smart contracts, privacy-preserving protocols, and funding tools for public goods. I’ve contributed to projects like NEAR AI, Potlock, and MagicBuild—leveraging LangChain, zk tech, and smart contract automation to push the boundaries of decentralized innovation.",
+      "avatar": "",
+      "telegram": "https://t.me/kurodenjiro",
+      "twitter": "https://x.com/kurodenjiro",
+      "discord": "",
+      "website": ""
+    },
+    {
         "name": "Josh Ford",
         "email": "",
         "preferredContact": "Telegram",

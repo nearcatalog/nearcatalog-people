@@ -6,7 +6,7 @@ A community-maintained directory of individuals and teams building on the NEAR e
 
 This repository contains a curated list of people actively involved in the NEAR ecosystem, including foundation members, developers, community leaders, and contributors. The data is stored in a single JSON file (`people-on-near.json`) that can be easily updated through GitHub's collaborative workflow.
 
-This is a dev-oriented repo, for regular users, you can submit your request here instead:  https://submit.nearcatalog.xyz/people-on-near/
+This is a dev-oriented repo, for regular users, you can submit your request here instead:  https://submit.nearcatalog.org/people-on-near/
 
 ## View the Directory
 

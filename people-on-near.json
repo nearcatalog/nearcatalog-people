@@ -1,5 +1,33 @@
 [
     {
+        "name": "Mister",
+        "email": "",
+        "preferredContact": "X",
+        "organization": "HOT Labs",
+        "team": "",
+        "jobTitle": "Co-founder",
+        "description": "Co-founder & CEO 'HOT Labs'",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/09/mister.jpg",
+        "telegram": "https://t.me/misterthedude",
+        "twitter": "https://x.com/donamarahp",
+        "discord": "",
+        "website": "https://hot-labs.org/"
+    },
+    {
+        "name": "Peter Volnov",
+        "email": "",
+        "preferredContact": "X",
+        "organization": "HOT Labs",
+        "team": "",
+        "jobTitle": "Co-founder",
+        "description": "Co-founder & CEO 'HOT Labs'",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/09/peterHOT.jpg",
+        "telegram": "",
+        "twitter": "https://x.com/p_volnov",
+        "discord": "",
+        "website": "https://hot-labs.org/"
+    },
+    {
         "name": "Owen Hassall",
         "email": "owen@proximity.dev",
         "preferredContact": "Telegram",

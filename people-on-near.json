@@ -501,5 +501,19 @@
         "description": "web3 Product, Growth & Strategy, NEAR AI",
         "organization": "NEAR AI",
         "twitter": "https://x.com/AvbNear/"
+    },
+    {
+        "name": "Bhavin Gala",
+        "email": "",
+        "preferredContact": "Telegram",
+        "organization": "NEAR Intents, NEAR Foundation",
+        "team": "Marketing",
+        "jobTitle": "Product Marketer",
+        "description": "Bhavin Gala is a Product Marketer at NEAR, leading go-to-market, partnerships, and ecosystem marketing for NEAR Intents.",
+        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/12/bhavin.jpg",
+        "telegram": "https://t.me/BhavInGaLa",
+        "twitter": "https://x.com/BhavinGala24",
+        "discord": "",
+        "website": ""
     }
 ]

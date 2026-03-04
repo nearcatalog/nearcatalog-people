@@ -98,20 +98,6 @@
         "website": ""
     },
     {
-        "name": "Nate Geier",
-        "email": "",
-        "preferredContact": "X",
-        "organization": "Bitte Protocol",
-        "team": "",
-        "jobTitle": "Founder",
-        "description": "Founder of Bitte.ai",
-        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/nate.jpg",
-        "telegram": "",
-        "twitter": "https://x.com/nategeier",
-        "discord": "",
-        "website": ""
-    },
-    {
         "name": "Peter NEARWEEK",
         "email": "",
         "preferredContact": "X",
@@ -306,20 +292,6 @@
         "twitter": "",
         "discord": "",
         "website": "https://www.linkedin.com/in/arktoswb/"
-    },
-    {
-        "name": "Paul Kuveke",
-        "email": "paul@bitte.ai",
-        "preferredContact": "X",
-        "organization": "Bitte.ai",
-        "team": "Operations",
-        "jobTitle": "COO",
-        "description": "I'm the COO at Bitte.AI, a platform for deploying highly performant on-chain agents. Built on NEAR, Bitte.AI lets developers create agents that users can access through embedded chat interfaces. If you're building on-chain services, exploring agentic infrastructure, or rethinking how users interact with blockchains, let’s connect. Always happy to collaborate with people pushing the space forward.",
-        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Paul-Kuveke.jpg",
-        "telegram": "",
-        "twitter": "https://x.com/PKuveke",
-        "discord": "",
-        "website": ""
     },
     {
         "name": "Yadira",

@@ -11,7 +11,8 @@
         "telegram": "https://t.me/misterthedude",
         "twitter": "https://x.com/donamarahp",
         "discord": "",
-        "website": "https://hot-labs.org/"
+        "website": "https://hot-labs.org/",
+        "nearProjects": ""
     },
     {
         "name": "Owen Hassall",
@@ -25,7 +26,8 @@
         "telegram": "https://t.me/pivortex",
         "twitter": "https://x.com/thepivortex",
         "discord": "",
-        "website": "https://calendly.com/owen-proximity/office-hours"
+        "website": "https://calendly.com/owen-proximity/office-hours",
+        "nearProjects": ""
     },
     {
         "name": "Kuro Denjiro",
@@ -39,7 +41,8 @@
         "telegram": "https://t.me/kurodenjiro",
         "twitter": "https://x.com/kurodenjiro",
         "discord": "",
-        "website": ""
+        "website": "",
+        "nearProjects": ""
     },
     {
         "name": "Josh Ford",
@@ -53,7 +56,8 @@
         "telegram": "http://tg.me/thisisjoshford",
         "twitter": "",
         "discord": "",
-        "website": ""
+        "website": "",
+        "nearProjects": ""
     },
     {
         "name": "Lucio Tato",
@@ -67,7 +71,8 @@
         "telegram": "",
         "twitter": "https://x.com/lucio_tato",
         "discord": "",
-        "website": ""
+        "website": "",
+        "nearProjects": ""
     },
     {
         "name": "Peter NEARWEEK",
@@ -75,13 +80,14 @@
         "preferredContact": "X",
         "organization": "NEARWEEK",
         "team": "",
-        "jobTitle": "",
-        "description": "Doing everything I can to let the world know what NEAR Protocol is and why it has to care about the intersection of blockchain and AI.",
+        "jobTitle": "research, editor, connector, pr and marketing",
+        "description": "Been in the near ecosystem the past 5 years with the same mission: spreading the word about near and shedding a light on projects building / using the technology. Maintaining near-staking.com\nRole: Researcher\nAreas: DeFi, AI, Infrastructure, Cross-chain, Community",
         "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/peternearweek.jpg",
-        "telegram": "",
+        "telegram": "https://t.me/quadronstate",
         "twitter": "https://x.com/quadron3stat3",
         "discord": "",
-        "website": ""
+        "website": "nearweek.com",
+        "nearProjects": "worked with most near projects"
     },
     {
         "name": "Monza",
@@ -95,7 +101,8 @@
         "telegram": "https://t.me/nearmonza",
         "twitter": "https://x.com/monzaNFT",
         "discord": "",
-        "website": ""
+        "website": "",
+        "nearProjects": ""
     },
     {
         "name": "Sasha",
@@ -109,7 +116,8 @@
         "telegram": "",
         "twitter": "",
         "discord": "",
-        "website": "https://learnnear.club/"
+        "website": "https://learnnear.club/",
+        "nearProjects": ""
     },
     {
         "name": "Mario Reder",
@@ -123,21 +131,23 @@
         "telegram": "https://t.me/marior_dev",
         "twitter": "https://x.com/marior_dev",
         "discord": "",
-        "website": ""
+        "website": "",
+        "nearProjects": ""
     },
     {
         "name": "Rahul Kumar Goel",
-        "email": "",
-        "preferredContact": "Telegram",
-        "organization": "NEAR Community Squad",
+        "email": "ra.goel1995@gmail.com",
+        "preferredContact": "Telegram, X / Twitter DM",
+        "organization": "Builder OPS",
         "team": "Community",
-        "jobTitle": "",
-        "description": "I am part of the NEAR Community Squad, where I manage moderation for NEAR Community Socials and provide essential support to the ecosystem. Reach out to me if you need any help in connecting with the community. NEAR Maxi will always be there to help out.",
+        "jobTitle": "Community Lead",
+        "description": "Contributor, Growth & Strategy\nRole: Researcher, Investor, Contributor\nAreas: DeFi, Governance, Community",
         "avatar": "https://pbs.twimg.com/profile_images/1848878734776184832/mMnekrh1_400x400.jpg",
         "telegram": "https://t.me/rahulgoel007",
         "twitter": "https://x.com/rahul_goel_007",
         "discord": "",
-        "website": ""
+        "website": "https://nearlegion.com/",
+        "nearProjects": "NEAR Community Squad, Service DAO"
     },
     {
         "name": "Michael Aescobar",
@@ -151,7 +161,8 @@
         "telegram": "https://t.me/Aescobar0G",
         "twitter": "https://x.com/aescobarindo",
         "discord": "",
-        "website": ""
+        "website": "",
+        "nearProjects": ""
     },
     {
         "name": "Volodymyr Bilyk",
@@ -165,7 +176,8 @@
         "telegram": "https://t.me/eclipseeer",
         "twitter": "https://x.com/eclipseeer",
         "discord": "",
-        "website": "https://lantstool.dev"
+        "website": "https://lantstool.dev",
+        "nearProjects": ""
     },
     {
         "name": "Vlad Frolov",
@@ -179,7 +191,8 @@
         "telegram": "https://t.me/frolvlad",
         "twitter": "https://x.com/Freol",
         "discord": "",
-        "website": "https://dev.near.org"
+        "website": "https://dev.near.org",
+        "nearProjects": ""
     },
     {
         "name": "Claudio Cossio",
@@ -193,7 +206,8 @@
         "telegram": "",
         "twitter": "https://x.com/ccossio",
         "discord": "https://discord.com/invite/GmabgWjJCK",
-        "website": ""
+        "website": "",
+        "nearProjects": ""
     },
     {
         "name": "Guille",
@@ -205,9 +219,10 @@
         "description": "I lead the Developer Relations team at NEAR Dev, where we oversee all documentation, examples and technical support for main ecosystem partners",
         "avatar": "https://pbs.twimg.com/profile_images/1573319312890384384/jUA2BAQQ_400x400.jpg",
         "telegram": "https://t.me/guilledevrel",
-        "twitter": "https://x.com/guillewrotethis",
+        "twitter": "https://x.com/guillewroteththis",
         "discord": "",
-        "website": ""
+        "website": "",
+        "nearProjects": ""
     },
     {
         "name": "Erica Kang",
@@ -221,21 +236,23 @@
         "telegram": "",
         "twitter": "https://x.com/ekang426",
         "discord": "",
-        "website": "https://www.buidl.asia/"
+        "website": "https://www.buidl.asia/",
+        "nearProjects": ""
     },
     {
         "name": "Evgeny Haenko",
         "email": "haenko.slavax5@gmail.com",
-        "preferredContact": "Telegram",
+        "preferredContact": "Telegram, X / Twitter DM",
         "organization": "House of Stake",
         "team": "",
-        "jobTitle": "",
-        "description": "Since 2021, I’ve been actively involved in the development of the NEAR ecosystem. I worked with Human Guild, where I handled communication with projects, supported teams, and coordinated activities across the ecosystem. Today, I’m an active contributor to House of Stake and always happy to support any project in the NEAR ecosystem. I continue contributing as a volunteer and am open to helping with communications, community building, and general coordination wherever needed.",
+        "jobTitle": "Communication and Community Lead",
+        "description": "https://near.fm/song/0fc2eb63-0fdc-46c0-81f8-be817031b300\nRole: Community Manager, Contributor, marketing\nAreas: Governance, Community",
         "avatar": "",
         "telegram": "https://t.me/evg3nykh",
         "twitter": "https://x.com/haenko21",
-        "discord": "",
-        "website": ""
+        "discord": "haenko.",
+        "website": "https://houseofstake.org/",
+        "nearProjects": "Human Guild"
     },
     {
         "name": "Anton Lomonos",
@@ -249,7 +266,8 @@
         "telegram": "https://t.me/Alomonos",
         "twitter": "",
         "discord": "",
-        "website": "https://www.linkedin.com/in/arktoswb/"
+        "website": "https://www.linkedin.com/in/arktoswb/",
+        "nearProjects": ""
     },
     {
         "name": "V ⋈",
@@ -257,7 +275,8 @@
         "organization": "Proximity Labs",
         "twitter": "https://x.com/vxyz_near",
         "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/V.jpg",
-        "description": "If you ever need input on GTM, marketing strategy, or just a fresh set of eyes to go over your current strategies, my DMs are always open. Every project deserves visibility and support. Let’s grow the ecosystem and build the future together!"
+        "description": "If you ever need input on GTM, marketing strategy, or just a fresh set of eyes to go over your current strategies, my DMs are always open. Every project deserves visibility and support. Let’s grow the ecosystem and build the future together!",
+        "nearProjects": ""
     },
     {
         "name": "NEAR Validators",
@@ -265,7 +284,8 @@
         "description": "Everything about NEAR Validators",
         "preferredContact": "Telegram",
         "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/NEAR-Validators.jpg",
-        "telegram": "https://t.me/near_validators"
+        "telegram": "https://t.me/near_validators",
+        "nearProjects": ""
     },
     {
         "name": "NEAR Dev Hub",
@@ -273,7 +293,8 @@
         "description": "The decentralized home base for NEAR builders",
         "preferredContact": "Telegram",
         "telegram": "https://t.me/neardev",
-        "website": "http://neardevhub.org"
+        "website": "http://neardevhub.org",
+        "nearProjects": ""
     },
     {
         "name": "Slime",
@@ -282,7 +303,8 @@
         "telegram": "https://t.me/intearchat",
         "twitter": "https://x.com/slimedrgn/",
         "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/05/slime-badass-.jpg",
-        "description": "Filling the NEAR blockspace with slimy stuff I build."
+        "description": "Filling the NEAR blockspace with slimy stuff I build.",
+        "nearProjects": ""
     },
     {
         "name": "Illia Polosukhin",
@@ -290,7 +312,8 @@
         "organization": "NEAR Foundation",
         "twitter": "https://x.com/ilblackdragon",
         "avatar": "https://pbs.twimg.com/profile_images/1850199749342978048/8OtPYhqP_400x400.jpg",
-        "description": "Co-founder of NEAR Protocol, NEAR Foundation and NEAR Inc. Building the future of the open web."
+        "description": "Co-founder of NEAR Protocol, NEAR Foundation and NEAR Inc. Building the future of the open web.",
+        "nearProjects": ""
     },
     {
         "name": "Cameron Dennis",
@@ -298,7 +321,8 @@
         "twitter": "https://x.com/Cameron_Dennis_",
         "organization": "NEAR AI",
         "avatar": "https://pbs.twimg.com/profile_images/1867013405795815425/tg5f3VpE_400x400.jpg",
-        "description": "Building the future of AI on NEAR. Contact me for partnerships, collaborations, and more on NEAR AI"
+        "description": "Building the future of AI on NEAR. Contact me for partnerships, collaborations, and more on NEAR AI",
+        "nearProjects": ""
     },
     {
         "name": "chronear",
@@ -306,7 +330,8 @@
         "avatar": "https://pbs.twimg.com/profile_images/1907926684210241536/uN7yC-re_400x400.jpg",
         "preferredContact": "X",
         "description": "DeFi@NEAR",
-        "organization": "NEAR Foundation"
+        "organization": "NEAR Foundation",
+        "nearProjects": ""
     },
     {
         "name": "AVB",
@@ -314,6 +339,247 @@
         "avatar": "https://pbs.twimg.com/profile_images/1777627711948918784/1vhGPCpV_400x400.jpg",
         "description": "web3 Product, Growth & Strategy",
         "organization": "Community",
-        "twitter": "https://x.com/AvbNear/"
+        "twitter": "https://x.com/AvbNear/",
+        "nearProjects": ""
+    },
+    {
+        "name": "TatToTheToo",
+        "email": "tattothetoo@gmail.com",
+        "preferredContact": "Telegram, X / Twitter DM",
+        "organization": "NEAR Legion",
+        "team": "",
+        "jobTitle": "Lead",
+        "description": "Degen at heart 💚 | Building community @NEARFoundation\n\n| Scaling @NEARLegion | Blending tech & creativity for immersive experiences |\nRole: Developer, Founder, Researcher, Designer, Community Manager, Investor, Validator, Infrastructure Builder, Contributor\nAreas: DeFi, AI, NFTs, Gaming, Governance",
+        "avatar": "",
+        "telegram": "https://t.me/tattothetoo",
+        "twitter": "https://x.com/TatToTheToo",
+        "discord": "",
+        "website": "nearlegion.com",
+        "nearProjects": "NEAR Legion, dca space, clearance labs, Jolly Crates, Iron Claw."
+    },
+    {
+        "name": "Om7eth",
+        "email": "",
+        "preferredContact": "Telegram, X / Twitter DM",
+        "organization": "Community",
+        "team": "",
+        "jobTitle": "Content Creator",
+        "description": "Active member of the NEAR Protocol ecosystem. I research new developments around NEAR, AI agents, and emerging tools, and share insights through Twitter content and threads.\nAlso skilled in video editing and visual content to help communicate ideas and highlight projects being built on NEAR.\nRole: Researcher, Designer, Community Manager, Investor, Contributor\nAreas: DeFi, AI, Community",
+        "avatar": "",
+        "telegram": "https://t.me/Om7ethh",
+        "twitter": "https://x.com/Ombaba77",
+        "discord": "",
+        "website": "",
+        "nearProjects": "Near Legion, Rhea finance "
+    },
+    {
+        "name": "Simon Bebek",
+        "email": "",
+        "preferredContact": "Telegram, X / Twitter DM",
+        "organization": "Near Legion",
+        "team": "",
+        "jobTitle": "",
+        "description": "Open your own Opportunity. Acceleration is NEAR.\nRole: Founder, Community Manager, Validator, Contributor, Mascot\nAreas: Infrastructure, Governance, Community, Connecting The Dots",
+        "avatar": "",
+        "telegram": "https://t.me/alvariance",
+        "twitter": "https://x.com/alvariance_",
+        "discord": "",
+        "website": "",
+        "nearProjects": "That is a Secret"
+    },
+    {
+        "name": "Halfblood",
+        "email": "halfblood0811@gmail.com",
+        "preferredContact": "Telegram, Email",
+        "organization": "Near Legion ",
+        "team": "",
+        "jobTitle": "Near MerchStore Management",
+        "description": "Available 24/7 on NEAR\nRole: Community Manager, Contributor\nAreas: Community",
+        "avatar": "",
+        "telegram": "https://t.me/techblood",
+        "twitter": "https://x.com/halfbld",
+        "discord": "",
+        "website": "nearmerch.com ",
+        "nearProjects": "NearMerch & NearLegion"
+    },
+    {
+        "name": "Kristian Kolosun",
+        "email": "kristian.kolosun@yandex.by",
+        "preferredContact": "Telegram, X / Twitter DM",
+        "organization": "Kristian Diary",
+        "team": "",
+        "jobTitle": "Founder",
+        "description": "Web3 Creator | TG: 9k+ | @hotdao_ Ambassador & top user | $NEAR evangelist | @PublicAI_\n Judge | MARK NFT Creator | @OpenForest_ Ambassador | NEAR Legion Belarus\nRole: Community Manager, Validator, Contributor\nAreas: DeFi, NFTs",
+        "avatar": "",
+        "telegram": "https://t.me/kolosun",
+        "twitter": "https://x.com/kristian_diary",
+        "discord": "gamecoast",
+        "website": "https://t.me/kristian_diary https://x.com/kristian_diary",
+        "nearProjects": "Ambassador of HOT Wallet, PublicAI, OpenForestProtocol. Creator of Kristian Diary"
+    },
+    {
+        "name": "Hamadex Entechnologue",
+        "email": "entechnologue@gmail.com",
+        "preferredContact": "Telegram, X / Twitter DM",
+        "organization": "Sheda Solutions ",
+        "team": "",
+        "jobTitle": "Founder",
+        "description": "A tech visionary shaping landscapes with active participation and buildl product and base decisions on user needs and product viability.\nRole: Founder, Contributor, Creator\nAreas: DeFi, AI, Wallets, NFTs, Gaming, Cross-chain, Community, RWA",
+        "avatar": "",
+        "telegram": "https://t.me/HEntechnologue",
+        "twitter": "https://x.com/HEntechnologue",
+        "discord": "Hamadex_Entechnologue ",
+        "website": "Sheda.app ",
+        "nearProjects": "Sheda Solutions and BD member"
+    },
+    {
+        "name": "Igboze",
+        "email": "igbozeigboze@gmail.com",
+        "preferredContact": "Telegram, X / Twitter DM",
+        "organization": "PortalPad",
+        "team": "",
+        "jobTitle": "Co-Founder",
+        "description": "Product, Growth and Community Lead\nRole: Founder, Researcher, Contributor\nAreas: DeFi, AI, Gaming, Governance, Community",
+        "avatar": "",
+        "telegram": "https://t.me/israel_igboze",
+        "twitter": "https://x.com/israel_igboze",
+        "discord": "Igboze#1590",
+        "website": "https://portalpad.fun/",
+        "nearProjects": "PortalPad"
+    },
+    {
+        "name": "VIKASH",
+        "email": "KVIK9990@GMAIL.COM",
+        "preferredContact": "Telegram",
+        "organization": "NEAR Legion",
+        "team": "",
+        "jobTitle": "Social Media Manager",
+        "description": "Community Builder, Professional Shitposter & NEAR Believer. \nRole: Community Manager\nAreas: Community",
+        "avatar": "",
+        "telegram": "https://t.me/KV9990",
+        "twitter": "https://x.com/KVIKASH007",
+        "discord": "KVIKASH",
+        "website": "https://nearlegion.com",
+        "nearProjects": "NEAR "
+    },
+    {
+        "name": "Kruzzz",
+        "email": "kruzzz@ref.finance",
+        "preferredContact": "Telegram, Discord",
+        "organization": "Rhea Finance",
+        "team": "",
+        "jobTitle": "Community Lead",
+        "description": "Living the crypto life, providing liquidity, growing communities. Always learning. Always growing.\nRole: Designer, Community Manager\nAreas: DeFi, Cross-chain, Community",
+        "avatar": "",
+        "telegram": "https://t.me/kruzzz13",
+        "twitter": "https://x.com/Kruzzz13",
+        "discord": "kruzzz13",
+        "website": "https://rhea.finance/",
+        "nearProjects": "Rhea Finance"
+    },
+    {
+        "name": "jayythew",
+        "email": "jayythew@gmail.com",
+        "preferredContact": "Telegram",
+        "organization": "Pingpay",
+        "team": "",
+        "jobTitle": "Founder",
+        "description": "Founder of Pingpay\nPowering Anything to Anything Payments\nMSc & BEng Engineering\nRole: Founder\nAreas: AI, Infrastructure, Developer Tools, Cross-chain, Community, Payments",
+        "avatar": "",
+        "telegram": "https://t.me/jayythew",
+        "twitter": "https://x.com/jayythew",
+        "discord": "",
+        "website": "https://pingpay.io/",
+        "nearProjects": "Pingpay"
+    },
+    {
+        "name": "Elliot Braem",
+        "email": "elliot@everything.dev",
+        "preferredContact": "Telegram, X / Twitter DM",
+        "organization": "NEAR Foundation, NEAR Legion, Everything labs LLC",
+        "team": "",
+        "jobTitle": "DevRel",
+        "description": "NEAR ecosystem builder and advocate, focused on leveraging NEAR Protocol’s tech stack and community to their full potential.\nRole: Developer, Founder, Community Manager, Contributor\nAreas: AI, Developer Tools, Community",
+        "avatar": "",
+        "telegram": "https://t.me/ejlbraem",
+        "twitter": "https://x.com/elliot_braem",
+        "discord": "",
+        "website": "https://everything.dev",
+        "nearProjects": "NearMerchStore, OpenCrosspost, Curate.fun, POTLOCK, Build DAO, DevHub"
+    },
+    {
+        "name": "CSP",
+        "email": "",
+        "preferredContact": "Telegram",
+        "organization": "Rhea Finance, Independent Builder",
+        "team": "",
+        "jobTitle": "Data analyst, community manager",
+        "description": "Active blockchain degen and community helper. Data digger. Bugs finder. Programmer.\nRole: Developer, Researcher, Community Manager, Contributor\nAreas: DeFi, Wallets, NFTs, Cross-chain, Community",
+        "avatar": "",
+        "telegram": "https://t.me/csp88g",
+        "twitter": "https://x.com/csp88g",
+        "discord": "csp88g",
+        "website": "https://rhea.finance/",
+        "nearProjects": "Rhea Finance"
+    },
+    {
+        "name": "Aescobar",
+        "email": "aescobar.co@gmail.com",
+        "preferredContact": "Telegram, X / Twitter DM",
+        "organization": "Rhea Finance",
+        "team": "",
+        "jobTitle": "Operations Lead ",
+        "description": "Coo of rhea finance \nRole: Founder, Community Manager, Contributor\nAreas: DeFi, Wallets, NFTs, Cross-chain, Community",
+        "avatar": "",
+        "telegram": "https://t.me/Aescobar0G",
+        "twitter": "https://x.com/aescobarindo",
+        "discord": "",
+        "website": "https://rhea.finance/",
+        "nearProjects": "Rhea Finance"
+    },
+    {
+        "name": "Yuen",
+        "email": "cyuenlee8@gmail.com",
+        "preferredContact": "Telegram ",
+        "organization": "NEAR Legion",
+        "team": "",
+        "jobTitle": "Community Lead",
+        "description": "Malaysia Lead for NEAR \nRole: Founder, Community Manager, Contributor\nAreas: DeFi, Wallets, NFTs, Cross-chain, Community",
+        "avatar": "",
+        "telegram": "https://t.me/yuensid",
+        "twitter": "https://x.com/yuensid",
+        "discord": "yuensid",
+        "website": "https://nearlegion.com/",
+        "nearProjects": "NEAR Legion\n"
+    },
+    {
+        "name": "Quasarrowa ",
+        "email": "quasarrowa@gmail.com",
+        "preferredContact": "Telegram, Email",
+        "organization": "Community",
+        "team": "",
+        "jobTitle": "Content lead",
+        "description": "People are likely to remember a fact when it is wrapped in a story than when it is presented alone.I specialize in storytelling. Marketing isn’t just about the product but about the story you tell. Storytelling makes it easier to onboard non-tech individuals.\nRole: Researcher, Contributor\nAreas: DeFi, AI, Wallets, Community",
+        "avatar": "",
+        "telegram": "https://t.me/Quasarrowa",
+        "twitter": "https://x.com/Quasarrowa",
+        "discord": "milk123q_05453",
+        "website": "",
+        "nearProjects": "I have created content around Rhea, intents, Near Al,  learnNear and \nAs well as the Near legion."
+    },
+    {
+        "name": "Gus",
+        "email": "",
+        "preferredContact": "Telegram",
+        "organization": "NEARWEEK",
+        "team": "",
+        "jobTitle": "Co-lead ",
+        "description": "The intersection between ai x crypto \n@NEARWEEK\nRole: Founder\nAreas: AI",
+        "avatar": "",
+        "telegram": "https://t.me/kispus",
+        "twitter": "https://x.com/ai_x_crypto",
+        "discord": "",
+        "website": "nearweek.com",
+        "nearProjects": "nearweek"
     }
 ]

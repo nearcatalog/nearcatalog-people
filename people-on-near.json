@@ -98,20 +98,6 @@
         "website": ""
     },
     {
-        "name": "Ester Silva",
-        "email": "ester.silva@near.foundation",
-        "preferredContact": "Email",
-        "organization": "Near Foundation",
-        "team": "Founder Success",
-        "jobTitle": "",
-        "description": "Ecosystem Growth ★ Founder Success ★ Protocol Rewards",
-        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Ξster.jpg",
-        "telegram": "",
-        "twitter": "https://x.com/SterFonseca",
-        "discord": "",
-        "website": ""
-    },
-    {
         "name": "Sasha",
         "email": "sasha@learnnear.club",
         "preferredContact": "Email",
@@ -290,77 +276,6 @@
         "website": "http://neardevhub.org"
     },
     {
-        "name": "Konrad Merino",
-        "preferredContact": "Telegram",
-        "organization": "NEAR Foundation",
-        "team": "Blockchain Success",
-        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Konrad-Merino.jpg",
-        "telegram": "https://t.me/KonradMerino",
-        "jobTitle": "Head of Infra Success"
-    },
-    {
-        "name": "Artem Petrikeev",
-        "email": "artem.petrikeev@near.foundation",
-        "preferredContact": "Telegram",
-        "telegram": "https://t.me/apetrikeev",
-        "organization": "NEAR Foundation",
-        "team": "VC & Institutional",
-        "jobTitle": "Investor Relations"
-    },
-    {
-        "name": "Abhishek Vaidyanathan",
-        "email": "abhishek.vaidyanathan@near.foundation",
-        "preferredContact": "Telegram",
-        "telegram": "https://t.me/abhishekvaidy",
-        "organization": "NEAR Foundation",
-        "team": "Legal",
-        "jobTitle": "Acting General Counsel"
-    },
-    {
-        "name": "Davin",
-        "email": "davin.basi@near.foundation",
-        "preferredContact": "Email",
-        "organization": "NEAR Foundation",
-        "team": "Legal",
-        "jobTitle": "Legal Counsel"
-    },
-    {
-        "name": "Carla",
-        "email": "carla.bertoncelli@near.foundation",
-        "preferredContact": "Email",
-        "organization": "NEAR Foundation",
-        "team": "Legal",
-        "jobTitle": "Paralegal"
-    },
-    {
-        "name": "David",
-        "email": "david.mirzadeh@near.foundation",
-        "preferredContact": "Telegram",
-        "telegram": "https://t.me/mirzdame",
-        "organization": "NEAR Foundation",
-        "team": "Office of the CEO",
-        "jobTitle": "Chief of Staff"
-    },
-    {
-        "name": "Stephanie Izquieta",
-        "email": "stephanie.izquieta@near.foundation",
-        "preferredContact": "Email, Telegram",
-        "telegram": "https://t.me/locazor",
-        "organization": "NEAR Foundation",
-        "team": "Marketing",
-        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Stephanie-Izquieta.jpg",
-        "jobTitle": "Events Lead"
-    },
-    {
-        "name": "Olga Plokhuta",
-        "email": "olga.plokhuta@near.foundation",
-        "preferredContact": "Email",
-        "organization": "NEAR Foundation",
-        "team": "Marketing",
-        "jobTitle": "Marketing Program Director",
-        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/06/Olga-Plokhuta.jpg"
-    },
-    {
         "name": "Slime",
         "preferredContact": "Telegram",
         "organization": "Slime",
@@ -400,19 +315,5 @@
         "description": "web3 Product, Growth & Strategy",
         "organization": "Community",
         "twitter": "https://x.com/AvbNear/"
-    },
-    {
-        "name": "Bhavin Gala",
-        "email": "",
-        "preferredContact": "Telegram",
-        "organization": "NEAR Intents, NEAR Foundation",
-        "team": "Marketing",
-        "jobTitle": "Product Marketer",
-        "description": "Bhavin Gala is a Product Marketer at NEAR, leading go-to-market, partnerships, and ecosystem marketing for NEAR Intents.",
-        "avatar": "https://indexer.nearcatalog.org/wp-content/uploads/2025/12/bhavin.jpg",
-        "telegram": "https://t.me/BhavInGaLa",
-        "twitter": "https://x.com/BhavinGala24",
-        "discord": "",
-        "website": ""
     }
 ]

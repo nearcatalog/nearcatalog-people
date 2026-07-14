@@ -581,5 +581,20 @@
         "discord": "",
         "website": "nearweek.com",
         "nearProjects": "nearweek"
-    }
+    },
+    {
+  "name": "Likith",
+  "email": "",
+  "preferredContact": "Telegram",
+  "organization": "NEAR Legion",
+  "team": "",
+  "jobTitle": "Builder & Content Creator",
+  "description": "Builder and content creator at NEAR Legion. I build Web3 applications, create educational content, and contribute to the NEAR ecosystem through community initiatives.",
+  "avatar": "https://i.pinimg.com/originals/e6/36/a6/e636a664f860a1ec9f7b5f3c4e2f634b.jpg",
+  "telegram": "https://t.me/likithrcb17",
+  "twitter": "https://x.com/likith6150470",
+  "discord": "likith.k_",
+  "website": "",
+  "nearProjects": "NEAR Legion"
+}
 ]
